@@ -1,121 +1,132 @@
-<!-- ====== HERO SECTION ====== -->
+<!-- ===================== AESTHETIC TOP SECTION ===================== -->
 
 <div align="center">
-  <img src="assets/hero.gif" width="80%" alt="Hero Animation"/>
-  
-  ## 🚀 Kumar Chandra Sheo Narayan  
-  **Full-Stack Developer | Java • Spring • React • ML Tools**  
+
+  <!-- Animated hero banner -->
+  <img src="assets/hero.gif" width="80%" style="border-radius: 18px;" />
+
+  <br/><br/>
+
+  <!-- Animated skills graph -->
+  <img src="assets/skills.gif" width="70%" style="border-radius: 18px;" />
+
+  <br/><br/>
+
+  <!-- Name + Tagline -->
+  <h1 style="font-size: 38px; font-weight: 800;">KUMAR CHANDRA SHEO NARAYAN</h1>
+  <h3 style="font-weight: 400; opacity: 0.8;">Full Stack Developer • Modern Web Architect • Systems Thinker</h3>
+
+  <!-- Badges -->
+  <div>
+    <a href="https://www.linkedin.com/in/kumar-chandra-sheo-narayan/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    </a>
+    <a href="https://github.com/devkcsn">
+      <img src="https://img.shields.io/badge/GitHub-@devkcsn-black?style=for-the-badge&logo=github"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/kumarchandrashe1">
+      <img src="https://img.shields.io/badge/HackerRank-profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
+    </a>
+  </div>
+
   <br/>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kumar-chandra-sheo-narayan/)
-  [![GitHub](https://img.shields.io/badge/GitHub-@devkcsn-black?logo=github)](https://github.com/devkcsn)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/profile/kumarchandrashe1)
-  
-  ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=devkcsn.devkcsn)
+
+  <!-- Visitor Counter -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devkcsn.devkcsn" />
+
 </div>
 
----
-
-<!-- ====== ABOUT ====== -->
-
-## 🔍 About Me
-I'm a curious engineer who enjoys building full-stack systems with clean architecture, machine-assisted tooling, distributed patterns, and occasionally taming rogue APIs.  
-Currently pursuing **B.Tech — Computer Science & Engineering** at *Haridwar University*.
+<br/><br/>
 
 ---
 
-<!-- ====== SKILLS CHART ====== -->
+<!-- ===================== MODERN UI ABOUT ===================== -->
 
-## 📊 Tech Skills (Visual)
-Using a dynamic chart served via QuickChart:
+<div align="center">
+  <img src="assets/projects.gif" width="65%" style="border-radius: 14px; margin-bottom: 20px;"/>
+</div>
 
-![Skills Chart](https://quickchart.io/chart?c={
-  type:'radar',
-  data:{
-    labels:['Java','JavaScript','Python','React','Spring','SQL','MongoDB'],
-    datasets:[{
-      label:'Skill Rating',
-      data:[9,8,7,8,7,6,6],
-      fill:true
-    }]
-  },
-  options:{
-    scales:{r:{angleLines:{color:'gray'}}},
-    plugins:{legend:{display:false}}
-  }
-})
+<div style="padding: 20px; background: rgba(255,255,255,0.05); border-radius: 18px; backdrop-filter: blur(14px);">
+  
+  <h2 align="center">✨ Who Am I?</h2>
 
----
+  <p align="center" style="font-size: 17px; line-height: 28px;">
+    I design and engineer digital systems that feel fast, look modern, and scale cleanly.
+    My work blends frontend elegance, backend precision, and a little bit of AI madness.
+    Currently crafting full-stack experiences, distributed systems, and ML-powered tools.
+  </p>
 
-<!-- ====== PROJECTS ====== -->
+</div>
 
-## 🚀 Featured Projects
-
-### 🔹 **PragatiAI — AI Enabled Exam Proctoring System**
-- Automatic Question Generation using **Gemini API**  
-- Real-time face detection & cheat monitoring with **OpenCV**  
-- Web dashboards for admin + student  
-- Tech: React · Python · Flask · ML · CV · Gemini
-
-![Pragati Demo](assets/pragati_demo.gif)
+<br/><br/>
 
 ---
 
-### 🔹 **AtomicPay — Distributed Transaction Engine**
-A microservice-based transaction system using **Saga Pattern** to maintain consistency across multiple services without 2PC.
+<!-- ===================== SHOWCASE SECTION ===================== -->
 
-- Ideal for fintech, trading, wallets  
-- Handles compensation → rollback → orchestration  
-- Tech: Java · Spring Boot · Kafka · Mongo
+## 🚀 Project Highlights
 
-![AtomicPay GIF](assets/atomicpay.gif)
-
----
-
-<!-- ====== CERTIFICATIONS ====== -->
-
-## 🏆 Certifications & Achievements
-- Winner — **SIH Internal Hackathon 2025**  
-- META Full Stack · META React · META REST APIs  
-- IBM Data Science & Generative AI  
-- ISRO Geospatial Technologies  
-- NPTEL — Large Applications Practicum  
-- Google Cloud Practitioner (in progress)
-
----
-
-<!-- ====== GITHUB STATS ====== -->
-
-## 📈 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devkcsn&show_icons=true&theme=tokyonight&rank_icon=github)
+  <img src="assets/pragati_demo.gif" width="75%" style="border-radius: 14px; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkcsn&layout=compact&theme=tokyonight)
+  <br/><br/>
 
-![Streak](https://streak-stats.demolab.com?user=devkcsn&theme=tokyonight)
+  <h3><strong>PragatiAI</strong> — Smart Proctoring & AI-Generated Exams</h3>
+  <p>
+    Gemini-powered exam creation · OpenCV deepface detection · Live monitoring dashboards · Secure student sessions
+  </p>
+
+  <br/><br/>
+
+  <img src="assets/atomicpay.gif" width="75%" style="border-radius: 14px; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
+
+  <br/><br/>
+
+  <h3><strong>AtomicPay</strong> — Distributed Transaction Engine</h3>
+  <p>
+    Saga orchestration · Microservice rollback flows · Event-driven consistency · Fintech-level reliability
+  </p>
 
 </div>
 
----
-
-<!-- ====== INTERACTIVE ELEMENTS ====== -->
-
-## 🧩 Interactive Style Widgets
-
-### ⏳ Live Counter (CountAPI)
-```md
-![Counter](https://api.countapi.xyz/hit/devkcsn/profile_counter)
-
+<br/><br/>
 
 ---
 
-# 🎁 Ready for next steps?
-I can also:
+<!-- ===================== GITHUB STATS SECTION ===================== -->
 
-- generate sample GIFs for your sections  
-- generate a custom neon UI theme  
-- convert this into an auto-updating README with GitHub Actions  
-- build an interactive 3D hero banner  
+## 📈 My GitHub Universe
 
-Just tell me what direction you want to amplify next.
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devkcsn&show_icons=true&theme=tokyonight&rank_icon=github" width="55%"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkcsn&layout=compact&theme=tokyonight" width="45%"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkcsn&theme=react-dark&hide_border=true" width="90%"/>
+
+</div>
+
+<br/><br/>
+
+---
+
+<!-- ===================== CONTACT ===================== -->
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### Email: **kumarchandrasheonarayan@gmail.com**  
+### Location: Roorkee, India  
+
+<br/>
+
+<img src="assets/footer_wave.gif" width="100%" />
+
+</div>
