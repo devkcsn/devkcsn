@@ -1,44 +1,17 @@
-name: Generate Snake Game
+name: Generate Snake
 
 on:
-  # Schedule: Runs at midnight UTC every day
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # Manual Trigger: Allows for testing and immediate updates
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  
-  # Trigger on Push: Updates when the config itself is changed
-  push:
-    branches:
-    - main
 
 jobs:
-  generate:
-    permissions: 
-      contents: write # Critical for pushing the generated SVG back
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake (Dual Palette)
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: devkcsn
           outputs: |
-            # Light Mode Palette: White bg, moving to black for high activity
-            dist/github-snake.svg?color_snake=#333333&color_dots=#ffffff,#e8e8e8,#c4c4c4,#8a8a8a,#000000
-            
-            # Dark Mode Palette: GitHub Dark Dimmed bg (#161b22), moving to white
-            dist/github-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#30363d,#484f58,#6e7681,#f0f6fc
-
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
