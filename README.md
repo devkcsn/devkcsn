@@ -33,10 +33,9 @@
 ---
 
 ## 🐍 GitHub Contribution Snake
+<!-- dark linear snake -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/devkcsn/devkcsn/output/github-contribution-grid-snake.svg" />
-
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/devkcsn/devkcsn/output/snake-dark.svg" />
 </div>
 
 ---
