@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Kumar Chandra Sheo Narayan
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px"> Kumar Chandra Sheo Narayan
 
 <div align="center">
 
@@ -11,8 +11,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Another+commit%2C+another+existential+crisis;Turning+coffee+into+distributed+systems;Bug+creator+by+day%2C+debugger+by+night" alt="Typing SVG" />
 
 </div>
-
-<br>
 
 ## 🎯 **CURRENT STATUS** → `{ working: true, caffeinated: debatable }`
 
@@ -43,26 +41,17 @@ status: Building & Breaking Things
 </tr>
 </table>
 
-<br>
-
 ---
 
 <div align="center">
 
 ## 🐍 **CONTRIBUTION ACTIVITY** // *watch the snake devour my free time*
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake.svg">
-  </picture>
-</div>
+![GitHub Snake Animation](https://raw.githubusercontent.com/devkcsn/devkcsn/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
-
-<br>
 
 <h2 align="center">⚡ TECH ARSENAL ⚡</h2>
 
@@ -120,17 +109,13 @@ status: Building & Breaking Things
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=devkcsn&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
 
@@ -140,8 +125,6 @@ status: Building & Breaking Things
 <td width="50%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkcsn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="100%"/>
-
-<br><br>
 
 ```javascript
 const productivity = {
@@ -158,11 +141,7 @@ const productivity = {
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 <h2 align="center" style="font-family: 'Courier New';">💼 WORK EXPERIENCE</h2>
 
@@ -188,11 +167,7 @@ const productivity = {
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 <h2 align="center" style="font-family: 'Trebuchet MS';">🚀 FLAGSHIP PROJECTS</h2>
 
@@ -200,12 +175,10 @@ const productivity = {
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🤖 **PragatiAI Exam Proctoring**
 
+<div align="center">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-
 </div>
 
 ```python
@@ -218,7 +191,7 @@ features = {
 ```
 
 **Tech Stack:**
-<br>
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -227,12 +200,10 @@ features = {
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 💰 **AtomicPay Transaction Engine**
 
+<div align="center">
 <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="200"/>
-
 </div>
 
 ```java
@@ -246,7 +217,7 @@ public class AtomicPay {
 ```
 
 **Tech Stack:**
-<br>
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?style=flat-square)
@@ -255,11 +226,7 @@ public class AtomicPay {
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 <h2 align="center" style="font-family: 'Consolas';">🏆 ACHIEVEMENTS UNLOCKED</h2>
 
@@ -302,11 +269,7 @@ Design + Dev = 💯
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
 
@@ -316,11 +279,7 @@ Design + Dev = 💯
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <h2 align="center" style="font-family: 'Georgia';">💭 CURRENT MINDSET</h2>
 
@@ -364,11 +323,7 @@ const me: Developer = {
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
 
@@ -403,8 +358,6 @@ const me: Developer = {
 </tr>
 </table>
 
-<br>
-
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║  "In a world full of bugs, be the one who actually fixes  ║
@@ -412,12 +365,8 @@ const me: Developer = {
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=devkcsn&color=58A6FF&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/devkcsn?label=Followers&style=flat-square&color=58A6FF)](https://github.com/devkcsn)
-
-<br>
 
 ### *Thanks for stopping by! Now go star some repos* ⭐
 
@@ -426,4 +375,3 @@ const me: Developer = {
 **Built with ❤️ and an unhealthy amount of caffeine**
 
 </div>
-
