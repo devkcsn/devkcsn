@@ -47,7 +47,7 @@ status: Building & Breaking Things
 
 ## 🐍 **CONTRIBUTION ACTIVITY** // *watch the snake devour my free time*
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/devkcsn/devkcsn/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/devkcsn/devkcsn/output/snake-grey-dark.svg)
 
 </div>
 
