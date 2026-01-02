@@ -109,23 +109,6 @@ status: Building & Breaking Things
 </tr>
 </table>
 
----
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devkcsn&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkcsn&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkcsn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="100%"/>
-
 ```javascript
 const productivity = {
   commits: "Many",
